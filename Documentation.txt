@@ -1,0 +1,5 @@
+﻿Ultra Violate Sensor :: 
+Detection: 280 - 390 nm
+
+Light Detection ::
+Detection: 400-700 nm
